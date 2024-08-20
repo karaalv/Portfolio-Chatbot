@@ -1,0 +1,8 @@
+# Ignore node packages
+node_modules/
+
+# Ignore environment variables
+.env
+
+# Ignore Mac cache
+.DS_Store
